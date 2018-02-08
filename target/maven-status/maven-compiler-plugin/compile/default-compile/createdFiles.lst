@@ -1,0 +1,3 @@
+services\resources\ServiceConfiguration.class
+services\resources\RESTClientController.class
+services\resources\ServiceApplication.class
