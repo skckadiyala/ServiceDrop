@@ -1,9 +1,9 @@
-package services.resources;
+package services;
 
 import io.dropwizard.Application;
-import io.dropwizard.Configuration;
 import io.dropwizard.client.JerseyClientBuilder;
 import io.dropwizard.setup.Environment;
+import services.resources.RESTClientController;
 
 import javax.ws.rs.client.Client;
 

@@ -1,4 +1,4 @@
-package services.resources;
+package services;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.Configuration;
